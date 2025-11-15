@@ -1,0 +1,4 @@
+Welcome to my Git branching challenge!
+Line 1: Edited by alexis magpantay on feature branch
+Line 2: Original content
+Line 3: Original content
